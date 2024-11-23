@@ -1,0 +1,4 @@
+- 👋 @gophic Go OpenSource Projects
+- 👀 I’m interested in Go
+- 🌱 currently mastering in Go
+- 💞️ looking to collaborate on interesting go projects
